@@ -1,1 +1,4 @@
+The data required will be imported from the webpages that contains the needed information and imported from the appropriate packages. 
+The list of boroughs will be providen by Wikipedia, the geographical location of the boroughs will come from the geocoder package, the venue data pertaining to the different retaurants will come via Foursquare and the other information imported will come from different official webpages around the internet with the updated information.
+
 
